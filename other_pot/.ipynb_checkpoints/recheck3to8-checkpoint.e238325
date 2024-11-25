@@ -1,0 +1,36 @@
+  File "/home/chenao/for_draft/other_pot/recheck0.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck1.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck2.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck3.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck4.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck5.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck6.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck7.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax
+  File "/home/chenao/for_draft/other_pot/recheck8.py", line 111
+    ts=np.linspace(0.,150.,10001)
+     ^
+SyntaxError: invalid syntax

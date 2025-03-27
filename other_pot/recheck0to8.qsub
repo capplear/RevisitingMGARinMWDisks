@@ -1,0 +1,25 @@
+#!/bin/bash
+#PBS -N recheck0to8
+#PBS -l nodes=1:ppn=72
+#PBS -l mem=250gb
+#PBS -q normal
+#PBS -o /home/chenao/for_draft/other_pot/recheck.log
+cd $PBS_O_WORKDIR
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck0.py
+echo 0done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck1.py
+echo 1done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck2.py
+echo 2done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck3.py
+echo 3done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck4.py
+echo 4done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck5.py
+echo 5done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck6.py
+echo 6done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck7.py
+echo 7done!
+/opt/conda/conda-4.12.0/envs/python3/bin/python /home/chenao/for_draft/other_pot/recheck8.py
+echo 8done!
